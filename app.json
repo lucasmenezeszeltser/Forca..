@@ -49,14 +49,13 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "c7341429-ba72-4deb-8d7c-2a423de984f0"
+        "projectId": "a428957e-4c2e-46f8-bd44-e6a927c1bad9"
       }
     },
     "runtimeVersion": {
       "policy": "appVersion"
     },
-    "updates": {
-      "url": "https://u.expo.dev/c7341429-ba72-4deb-8d7c-2a423de984f0"
-    }
+    "updates": {},
+    "owner": "lucaszeltser"
   }
 }
